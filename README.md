@@ -4,6 +4,7 @@ Conteúdos de apresentação sobre novos recursos do .NET 10. | Tecnologias cobe
 ## .NET 10
 - [Melhorias na manipulação de datas com ISOWeek](https://github.com/renatogroffe/DotNet10-ConsoleApp-ISOWeek_Overloads)
 - [Melhorias na ordenação numérica de strings](https://github.com/renatogroffe/DotNet10-ConsoleApp-Numeric-Ordering-for-String-Comparison)
+- [Pipeline demonstrando o uso de C# com scripts no .NET 10](https://github.com/renatogroffe/dotnet10-scripts-azdevopspipeline-docker)
 
 ## ASP.NET Core
 - [Suporte nativo a validações em Minimal APIs](https://github.com/renatogroffe/dotnet10-aspnetcore-minimalapis-validation-scalar_cadastropessoas)
