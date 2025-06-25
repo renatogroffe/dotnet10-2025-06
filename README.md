@@ -1,6 +1,8 @@
 # dotnet10-2025-06
 Conteúdos de apresentação sobre novos recursos do .NET 10. | Tecnologias cobertas nos exemplos: .NET 10, ASP.NET Core, C# 14, Docker, Azure DevOps.
 
+Esta palestra aconteceu em uma live da comunidade **Sharebook** no **YouTube**: https://www.youtube.com/watch?v=Ne85pKz0MjA
+
 ## .NET 10
 - [Melhorias na manipulação de datas com ISOWeek](https://github.com/renatogroffe/DotNet10-ConsoleApp-ISOWeek_Overloads)
 - [Melhorias na ordenação numérica de strings](https://github.com/renatogroffe/DotNet10-ConsoleApp-Numeric-Ordering-for-String-Comparison)
